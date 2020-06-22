@@ -1,6 +1,6 @@
 # FormVueLatte
 
-For the full guide with examples, visit [https://formvuelatte.netlify.com](https://formvuelatte.netlify.com)
+For the full guide with examples, visit [https://formvuelatte.js.org/](https://formvuelatte.js.org/)
 
 ## Getting Started
 
