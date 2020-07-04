@@ -11,6 +11,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
+      { text: 'Next', link: 'https://formvuelatte.js.org' }
       // { text: 'API', link: '/api/' }
     ],
     sidebar: [
